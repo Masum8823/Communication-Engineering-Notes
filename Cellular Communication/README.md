@@ -48,3 +48,17 @@ The hexagon is the most commonly used model because it best represents how cells
 
 
 ![Cell Shape Models](Cell-Shape.png)
+
+---
+
+# 3. Cell Types
+
+Because population density varies a lot across a country — cities are dense, rural areas are sparse — different types of cells are used:
+
+---
+
+## 📌 Types of Cells:
+
+i. Macrocells  
+ii. Microcells  
+iii. Selective cells  
