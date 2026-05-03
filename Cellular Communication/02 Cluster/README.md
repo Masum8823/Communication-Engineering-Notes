@@ -19,3 +19,13 @@ In a 7-cell cluster, cells are numbered 1 to 7, and the same pattern repeats aga
 ## 🖼️ Figure:
 
 ![Cell Shape Models](7-cell-cluster.png)
+
+# 📐 Why hexagon shape?
+
+Cells shapes are hexagons because:
+
+• Each cell has 6 equal-distance neighbors  
+• Angles between them are 60°  
+• This makes planning and frequency reuse easier  
+
+---
