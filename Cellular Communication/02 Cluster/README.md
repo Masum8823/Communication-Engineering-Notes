@@ -52,3 +52,14 @@ Here, i and j = 0, 1, 2, 3... (non-negative integers).
 So common cluster sizes: 3, 7, 12, 19...
 
 ---
+
+# 📡 How to find nearest co-channel cell (same frequency cell):
+
+## Step by step:
+
+1. Start from your cell  
+2. Move i cells in a straight line  
+3. Then turn 60° anti-clockwise  
+4. Move j cells  
+
+The cell you reach = nearest co-channel neighbor
