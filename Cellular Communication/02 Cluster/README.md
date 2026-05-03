@@ -20,6 +20,8 @@ In a 7-cell cluster, cells are numbered 1 to 7, and the same pattern repeats aga
 
 ![Cell Shape Models](7-cell-cluster.png)
 
+---
+
 # 📐 Why hexagon shape?
 
 Cells shapes are hexagons because:
