@@ -29,3 +29,26 @@ Cells shapes are hexagons because:
 • This makes planning and frequency reuse easier  
 
 ---
+
+# Cluster Size & Cell Layout
+
+## 📊 Valid Cluster Size (N):
+
+N is not allowed for every number. It must follow this formula:
+
+N = i² + ij + j²  
+
+Here, i and j = 0, 1, 2, 3... (non-negative integers).
+
+---
+
+## 📌 Examples:
+
+• i=1, j=1 → N = 3  
+• i=2, j=1 → N = 7  
+• i=1, j=2 → N = 7  
+• i=3, j=2 → N = 19  
+
+So common cluster sizes: 3, 7, 12, 19...
+
+---
