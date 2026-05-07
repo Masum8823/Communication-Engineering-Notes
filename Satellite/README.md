@@ -71,3 +71,16 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 ![Ground Segment](ground-segment.png)
 
 ---
+
+# Satellite Control Centre Functions
+
+## 📌 Functions:
+
+• Tracking of the satellite  
+• Receiving data  
+• Eclipse management of the satellite  
+• Commanding the satellite for station keeping  
+• Determining orbital parameters from tracking and ranging data  
+• Switching ON/OFF of different subsystems as per operational requirements  
+
+---
