@@ -18,3 +18,13 @@ There are two major elements of a satellite communication system:
 2. Ground Segment  
 
 ---
+
+# Basic Flow of Satellite Communication
+
+A user sends data through a terrestrial (স্থলজ) system → earth station → antenna → uplink to satellite → satellite receives and retransmits → downlink → receiving antenna → earth station → terrestrial system → destination user.
+
+---
+
+## 🖼️ Communication Flow Diagram
+
+![Basic Flow of Satellite Communication](flow-of-satellite-communication.png)
