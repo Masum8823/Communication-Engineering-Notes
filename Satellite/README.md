@@ -28,3 +28,25 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 ## 🖼️ Satellite Communication Flow Diagram
 
 ![Basic Flow of Satellite Communication](flow-of-satellite-communication.png)
+
+---
+
+# Space Segment
+
+## 📌 Space Segment includes:
+
+• The satellite itself  
+• Means for launching the satellite  
+• Electrical power system  
+• Mechanical structure  
+• Communication transponders  
+• Communication antennas  
+• Attitude and orbit control system  
+
+---
+
+## 🖼️ Space Segment Diagram
+
+![Space Segment](space-segment.png)
+
+---
