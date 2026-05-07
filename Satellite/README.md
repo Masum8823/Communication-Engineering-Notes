@@ -50,3 +50,24 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 ![Space Segment](space-segment.png)
 
 ---
+
+# Ground Segment
+
+## 📌 Ground Segment consists of:
+
+• Earth stations  
+• Rear ward communication links  
+• User terminals and interfaces  
+• Network control center  
+• Transmit equipment  
+• Receive equipment  
+• Antenna system  
+
+---
+
+## 🖼️ Ground Segment Diagram
+
+<!-- Add image link here -->
+![Ground Segment](ground-segment.png)
+
+---
