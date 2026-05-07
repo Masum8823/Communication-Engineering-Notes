@@ -84,3 +84,55 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 • Switching ON/OFF of different subsystems as per operational requirements  
 
 ---
+
+# Orbits for Satellite Communication
+
+An orbit is the path a satellite follows around the planet. Satellite orbits are divided into two main categories:
+
+1. Non-Geostationary Orbit (NGSO)  
+2. Geo Stationary Orbit (GSO)  
+
+
+### 🖼️ Orbit Categories Diagram
+
+<!-- Add image link here -->
+![Orbit Categories](orbits-of-stellite.png)
+
+---
+
+# Satellite Orbits by Height
+
+## 🛰️ LEO (Low Earth Orbit)
+
+• Height: 160 to 1600 km above Earth  
+• Small and easy to launch  
+• Suitable for mass production  
+• Used for high-speed data communication  
+
+---
+
+## 🛰️ MEO (Medium Earth Orbit)
+
+• Height: 8000 to 18000 km above Earth  
+• A compromise between LEO and GEO  
+• Has more delay and needs higher power than LEO  
+
+---
+
+## 🛰️ GEO (Geostationary Earth Orbit)
+
+• Height: 35,786 km above the equator  
+• This is the geostationary orbit  
+
+---
+
+## 🛰️ HEO (High Elliptical Orbit)
+
+• Height: 18,500 to 35,000 km above Earth  
+• Satellite moves close to Earth and then far into space repeatedly  
+• Gives better coverage to high northern and southern areas  
+
+### 🖼️ Satellite Orbits by Height Diagram
+
+<!-- Add image link here -->
+![Satellite Orbits by Height](orbits-of-satellite-2.png)
