@@ -25,6 +25,6 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 
 ---
 
-## 🖼️ Communication Flow Diagram
+## 🖼️ Satellite Communication Flow Diagram
 
 ![Basic Flow of Satellite Communication](flow-of-satellite-communication.png)
