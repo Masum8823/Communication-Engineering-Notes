@@ -96,7 +96,7 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 ### 🖼️ Orbit Categories Diagram
 
 <!-- Add image link here -->
-![Orbit Categories](orbits-of-stellite.png)
+![Orbit Categories](orbits-of-satellite.png)
 
 ---
 
@@ -136,3 +136,38 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 
 <!-- Add image link here -->
 ![Satellite Orbits by Height](orbits-of-satellite-2.png)
+
+---
+
+# Non-Geostationary Orbit (NGSO)
+
+Early satellite communication used non-geostationary low earth orbits because launch vehicles had technical limitations in placing satellites in higher orbits.
+
+---
+
+## 📌 Classification of NGSOs by orbital plane:
+
+### 🛰️ Polar Orbit
+
+• The satellite moves from pole to pole  
+• Inclination angle is exactly 90 degrees  
+
+---
+
+### 🛰️ Equatorial Orbit
+
+• The orbital plane moves with the Earth's equatorial plane  
+• Inclination is zero or very small  
+
+---
+
+### 🛰️ Inclined Orbit
+
+• Any orbit that is neither polar nor equatorial falls into this category  
+
+---
+
+## 🖼️ NGSO Orbit Diagram
+
+<!-- Add image here -->
+![NGSO Orbit Types](polar-equatorial.png)
