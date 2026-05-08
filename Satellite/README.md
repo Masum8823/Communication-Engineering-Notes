@@ -187,3 +187,29 @@ Early satellite communication used non-geostationary low earth orbits because la
 ###  Orbit Direction Diagram
 
 ![Prograde and Retrograde Orbit](prograde-retrograde-orbital.png)
+
+---
+
+# Advantages of NGSO
+
+• Less booster power needed  
+• Less delay in transmission  
+• Reduced echo problem in voice communication  
+• Better for higher latitude areas  
+• Lower cost to build and launch satellites  
+
+---
+
+# Disadvantages of NGSO
+
+• Complex handoff problem between satellites  
+• Shorter satellite lifetime  
+• Requires frequent satellite replacement compared to GSO  
+• Increases space debris (ধ্বংসাবশেষ) problem  
+• Needs many satellites for global coverage  
+• Each LEO satellite covers only a small area for a short time  
+
+
+### NGSO Diagram
+
+![NGSO Advantages and Disadvantages](pros-cons-of-ngso.png)
