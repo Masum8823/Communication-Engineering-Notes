@@ -256,3 +256,31 @@ Because the satellite appears fixed, the ground station antenna does not need to
 ###  GSO Diagram
 
 ![Advantages and Disadvantages of GSO](geo-2.png)
+
+---
+
+# Evolution of Satellite Communication
+
+During the early 1950s, both passive and active satellites were explored for long-distance communication.
+
+---
+
+# Passive Satellites
+
+A passive satellite only reflects signals from one earth station to another. It reflects incoming electromagnetic signals without any modification or amplification. It cannot generate power; it only bounces the signal back.
+
+---
+
+## 📌 Disadvantages of Passive Satellites
+
+• Earth stations needed very high transmission power  
+• Large and expensive earth stations with tracking systems were required  
+• A global system would need many passive satellites used randomly for many users  
+• Cannot be controlled from the ground  
+• High signal loss due to long distance between transmitter and receiver  
+
+---
+
+👉 Passive satellites were used in early years, but later they were replaced by active satellites.
+
+---
