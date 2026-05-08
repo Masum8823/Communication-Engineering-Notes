@@ -311,3 +311,20 @@ Active satellites amplify, modify, and retransmit signals that is received from 
 
 ![Active Satellite](pasive-active-satellite.png)
 
+---
+
+# Satellite Architecture
+
+A satellite internally consists of these main parts working together:
+
+• The RX Antenna receives the uplink signal from the earth station  
+• It goes to the Transponder Receiver Section which contains a down converter, pre-amplifier, and filters  
+• The signal is processed in the middle section  
+• Then it goes to the Transponder Transmitter Section which has a high power amplifier and filter  
+• Finally the TX Antenna sends the downlink signal back to Earth  
+• Solar Arrays provide power on both sides  
+• The whole system is managed by telemetry, attitude control, commanding, fuel, batteries, and power/thermal control (AOCS and TT&C)  
+
+### Satellite Architecture Figure:
+
+![Satellite Architecture](architecture-of-satellite.png)
