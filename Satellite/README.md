@@ -233,3 +233,26 @@ Because the satellite appears fixed, the ground station antenna does not need to
 • One geostationary satellite can cover 38% of the Earth's surface  
 • Three geostationary satellites can cover the whole Earth  
 • Doppler shift effect is very small  
+
+---
+
+# Advantages of GSO
+
+• Simple ground station tracking  
+• Nearly constant transmission range  
+• Very small frequency shift  
+• No need for rotating antenna  
+• Wide coverage area  
+
+---
+
+# Disadvantages of GSO
+
+• Transmission delay is about 250 milliseconds  
+• Large free space loss because of long distance  
+• No polar coverage from geostationary orbit  
+
+
+###  GSO Diagram
+
+![Advantages and Disadvantages of GSO](geo-2.png)
