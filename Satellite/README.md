@@ -23,9 +23,8 @@ There are two major elements of a satellite communication system:
 
 A user sends data through a terrestrial (স্থলজ) system → earth station → antenna → uplink to satellite → satellite receives and retransmits → downlink → receiving antenna → earth station → terrestrial system → destination user.
 
----
 
-## 🖼️ Satellite Communication Flow Diagram
+###  Satellite Communication Flow Diagram
 
 ![Basic Flow of Satellite Communication](flow-of-satellite-communication.png)
 
@@ -43,9 +42,8 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 • Communication antennas  
 • Attitude and orbit control system  
 
----
 
-## 🖼️ Space Segment Diagram
+###  Space Segment Diagram
 
 ![Space Segment](space-segment.png)
 
@@ -63,9 +61,8 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 • Receive equipment  
 • Antenna system  
 
----
 
-## 🖼️ Ground Segment Diagram
+### 🖼️ Ground Segment Diagram
 
 <!-- Add image link here -->
 ![Ground Segment](ground-segment.png)
@@ -95,7 +92,6 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 
 ### 🖼️ Orbit Categories Diagram
 
-<!-- Add image link here -->
 ![Orbit Categories](orbits-of-satellite.png)
 
 ---
@@ -132,7 +128,7 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 • Satellite moves close to Earth and then far into space repeatedly  
 • Gives better coverage to high northern and southern areas  
 
-### 🖼️ Satellite Orbits by Height Diagram
+###  Satellite Orbits by Height Diagram
 
 <!-- Add image link here -->
 ![Satellite Orbits by Height](orbits-of-satellite-2.png)
@@ -165,9 +161,29 @@ Early satellite communication used non-geostationary low earth orbits because la
 
 • Any orbit that is neither polar nor equatorial falls into this category  
 
----
 
-## 🖼️ NGSO Orbit Diagram
+###  NGSO Orbit Diagram
 
 <!-- Add image here -->
-![NGSO Orbit Types](polar-equatorial.png)
+![NGSO Orbit Types](polar-equatorial-orbit.png)
+
+---
+
+# Classification of NGSOs by direction
+
+## 🛰️ Prograde Orbit
+
+• The satellite that moves in the same direction as Earth's rotation  
+• Inclination is between 0° and 90°  
+
+---
+
+## 🛰️ Retrograde Orbit
+
+• The satellite moves in the opposite direction to Earth's rotation  
+• Inclination is between 90° and 180°  
+
+
+###  Orbit Direction Diagram
+
+![Prograde and Retrograde Orbit](prograde-retrograde-orbital.png)
