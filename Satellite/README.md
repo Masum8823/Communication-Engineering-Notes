@@ -24,7 +24,7 @@ There are two major elements of a satellite communication system:
 A user sends data through a terrestrial (স্থলজ) system → earth station → antenna → uplink to satellite → satellite receives and retransmits → downlink → receiving antenna → earth station → terrestrial system → destination user.
 
 
-###  Satellite Communication Flow Diagram
+###  Satellite Communication Flow Diagram:
 
 ![Basic Flow of Satellite Communication](flow-of-satellite-communication.png)
 
@@ -43,7 +43,7 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 • Attitude and orbit control system  
 
 
-###  Space Segment Diagram
+###  Space Segment Figure:
 
 ![Space Segment](space-segment.png)
 
@@ -62,9 +62,8 @@ A user sends data through a terrestrial (স্থলজ) system → earth stati
 • Antenna system  
 
 
-### 🖼️ Ground Segment Diagram
+###  Ground Segment Figure:
 
-<!-- Add image link here -->
 ![Ground Segment](ground-segment.png)
 
 ---
@@ -90,7 +89,7 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 2. Geo Stationary Orbit (GSO)  
 
 
-### 🖼️ Orbit Categories Diagram
+### Orbit Categories Figure:
 
 ![Orbit Categories](orbits-of-satellite.png)
 
@@ -128,9 +127,8 @@ An orbit is the path a satellite follows around the planet. Satellite orbits are
 • Satellite moves close to Earth and then far into space repeatedly  
 • Gives better coverage to high northern and southern areas  
 
-###  Satellite Orbits by Height Diagram
+###  Satellite Orbits by Height Figure:
 
-<!-- Add image link here -->
 ![Satellite Orbits by Height](orbits-of-satellite-2.png)
 
 ---
@@ -162,9 +160,8 @@ Early satellite communication used non-geostationary low earth orbits because la
 • Any orbit that is neither polar nor equatorial falls into this category  
 
 
-###  NGSO Orbit Diagram
+###  NGSO Orbit Figure:
 
-<!-- Add image here -->
 ![NGSO Orbit Types](polar-equatorial-orbit.png)
 
 ---
@@ -184,7 +181,7 @@ Early satellite communication used non-geostationary low earth orbits because la
 • Inclination is between 90° and 180°  
 
 
-###  Orbit Direction Diagram
+###  Orbit Direction Figure:
 
 ![Prograde and Retrograde Orbit](prograde-retrograde-orbital.png)
 
@@ -210,7 +207,7 @@ Early satellite communication used non-geostationary low earth orbits because la
 • Each LEO satellite covers only a small area for a short time  
 
 
-### NGSO Diagram
+### NGSO Diagram:
 
 ![NGSO Advantages and Disadvantages](pros-cons-of-ngso.png)
 
@@ -222,7 +219,7 @@ There is only one geostationary orbit around the Earth. It is on the Earth's equ
 
 Because the satellite appears fixed, the ground station antenna does not need to rotate or track it, which reduces cost.
 
-### Geostationary Orbit Diagram
+### Geostationary Orbit Figure:
 
 ![Geostationary Orbit](geo-stationary-orbit.png)
 
@@ -253,7 +250,7 @@ Because the satellite appears fixed, the ground station antenna does not need to
 • No polar coverage from geostationary orbit  
 
 
-###  GSO Diagram
+###  GSO Figure:
 
 ![Advantages and Disadvantages of GSO](geo-2.png)
 
@@ -401,3 +398,36 @@ Antenna look angles are the specific coordinates to which an earth station anten
 These angles are calculated based on the earth station's latitude and longitude and the satellite's orbital position. Getting these right is essential for maximizing signal strength. For geostationary satellites, once set these angles don't need to change since the satellite is always in the same position relative to the ground.
 
 ---
+
+# Services of Satellite Communication
+
+Satellite services are divided into two types:
+
+1. One-way links  
+2. Two-way links  
+
+---
+
+# 📡 One-way Satellite Services
+
+• Broadcast Satellite Service — radio, TV, and data broadcasting  
+• Safety Services — search and rescue, disaster warning  
+• Radio Determination Satellite Service — position location  
+• Standard frequency and time signal satellite service  
+• Space Research Service  
+• Space Operations Service  
+• Earth Exploration Satellite Service  
+
+---
+
+# 📡 Two-way Satellite Services
+
+• Fixed Satellite Service (FSS) — telephone, fax, high bit rate data  
+• Mobile Satellite Service (MSS) — land mobile, maritime mobile, aero-mobile, personal communications  
+• Satellite News Gathering  
+• Inter Satellite Service — communication between satellites  
+
+
+### One-Way and Two-Way Satellite Figugre:
+
+![Satellite Communication Services](one-way-two-way-communication-link.png)
