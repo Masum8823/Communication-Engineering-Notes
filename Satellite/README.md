@@ -284,3 +284,30 @@ A passive satellite only reflects signals from one earth station to another. It 
 👉 Passive satellites were used in early years, but later they were replaced by active satellites.
 
 ---
+
+# Active Satellites
+
+Active satellites amplify, modify, and retransmit signals that is received from Earth. Any satellite that can transmit power is called an active satellite.
+
+---
+
+## 📌 Advantages over Passive Satellites
+
+• Require lower power earth stations  
+• Less costly to operate  
+• Not open to random unauthorized use  
+• Can be controlled from the ground  
+
+---
+
+## 📌 Disadvantages of Active Satellites
+
+• Require larger and more powerful rockets to launch heavier satellites  
+• Need on-board power supply  
+• Service interruptions can occur if electronic components fail  
+
+
+### Passive & Active Satellite:
+
+![Active Satellite](pasive-active-satellite.png)
+
