@@ -213,3 +213,23 @@ Early satellite communication used non-geostationary low earth orbits because la
 ### NGSO Diagram
 
 ![NGSO Advantages and Disadvantages](pros-cons-of-ngso.png)
+
+---
+
+# Geostationary Orbit (GSO)
+
+There is only one geostationary orbit around the Earth. It is on the Earth's equatorial plane. A satellite in this orbit moves at the same speed as the Earth rotates, so the satellite appears fixed (stationary) from the ground. As a result,
+
+Because the satellite appears fixed, the ground station antenna does not need to rotate or track it, which reduces cost.
+
+### Geostationary Orbit Diagram
+
+![Geostationary Orbit](geo-stationary-orbit.png)
+
+---
+
+# Key Facts about GSO
+
+• One geostationary satellite can cover 38% of the Earth's surface  
+• Three geostationary satellites can cover the whole Earth  
+• Doppler shift effect is very small  
