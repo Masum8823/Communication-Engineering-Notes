@@ -328,3 +328,76 @@ A satellite internally consists of these main parts working together:
 ### Satellite Architecture Figure:
 
 ![Satellite Architecture](architecture-of-satellite.png)
+
+---
+
+# Propulsion Subsystem
+
+The propulsion subsystem generates thrust to move and maintain the satellite in space by expelling propellant, based on Newton’s Third Law of Motion. It is used for orbit adjustment, trajectory control, and maintaining orientation during the satellite’s lifetime.
+
+---
+
+# AOCS — Attitude and Orbit Control System
+
+## 📌 Main Functions:
+
+• Attitude Determination — uses sensors (star trackers, sun sensors, gyroscopes, magnetometers) to find satellite orientation  
+
+• Attitude Control — adjusts orientation using reaction wheels, thrusters, and magnetic torquers  
+
+• Telemetry Generation — collects health data (voltage, temperature, pressure, fuel) and sends to ground  
+
+• Command Execution — receives ground commands for orbit, payload, or software changes  
+
+• Autonomous Operation and Safe Mode — switches to safe mode automatically during faults  
+
+• Station-Keeping — uses thrusters to keep satellite in correct orbital position  
+
+---
+
+## 📌 AOCS Components:
+
+• Sensors: GPS, star trackers, IMU, CESS, magnetometers  
+
+• Actuators: magnetic torquers, reaction wheels, thrusters  
+
+• Operating modes: stand-by, normal, safe  
+
+---
+
+# Thermal Control
+
+Satellites face temperature differences because one side gets sunlight while the other faces cold space. Heat is also generated inside the satellite and must be removed. For All these purpose Thermal Control is used.
+
+---
+
+## 📌 Methods used:
+
+• Thermal blankets  
+• Radiation mirrors  
+• Heaters when transponders are off  
+
+---
+
+# Transponders
+
+A transponder is a set of connected units that forms one communication channel between receiving and transmitting antennas of a satellite.
+
+• Each transponder bandwidth: 36 MHz  
+• Total: 12 transponders in 500 MHz  
+• Total C-band bandwidth: 500 MHz  
+• Divided into sub-bands (one per transponder)  
+• Guard band: 4 MHz between transponders  
+
+---
+
+# Antenna Look Angles
+
+Antenna look angles are the specific coordinates to which an earth station antenna must be pointed to establish a direct line-of-sight link with a satellite. Two angles are involved:
+
+• Azimuth — the horizontal direction the antenna must face.  
+• Elevation — the vertical angle above the horizon.  
+
+These angles are calculated based on the earth station's latitude and longitude and the satellite's orbital position. Getting these right is essential for maximizing signal strength. For geostationary satellites, once set these angles don't need to change since the satellite is always in the same position relative to the ground.
+
+---
